@@ -7,7 +7,7 @@ Sobre Mim: { Ola, sou de PE, jovem dev Back-End , experiencia de pouco meses no 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Macinho7&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Macinho7&icon=5&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Macinho7&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 ## 🌐 Social:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/maccielx_) 
