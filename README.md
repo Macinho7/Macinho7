@@ -8,9 +8,6 @@ Sobre Mim: { Ola, sou de PE, jovem dev Back-End , experiencia de pouco meses no 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Macinho7&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Macinho7&label=Profile%20Views&color=12&icon=5&pretty=false" />
-</a>
 
 ## 🌐 Social:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/maccielx_) 
