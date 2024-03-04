@@ -1,5 +1,5 @@
 # 💫 Me:
-Sobre Mim: { Ola, sou de PE, jovem dev Back-End , experiencia de pouco meses no ramo, gosto de NestJs para servidores escalaveis, amo TypeScrypt, sigo desenvolvendo melhores servidores com mais servicos e seguro. }
+Sobre Mim: { Ola, sou de PE, jovem dev Back-End , experiencia de pouco meses no ramo, gosto de NestJs para servidores escalaveis, amo TypeScrypt, sigo desenvolvendo melhores servidores com mais servicos e seguros. }
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Macinho7&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
