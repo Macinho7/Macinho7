@@ -1,11 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is J. Patrick
+Ola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Meu nome e Maciel
 ==================================================================================================================================
 
-Sou Dev Back-End
+Sou um Dev Back-End
 ----------------
 
-* 🌍  I'm based in Brasil
-* 🧠  I'm learning Aws -Lambda
+* 🌍  Morando no Brasil
 
 ### Skills
 
